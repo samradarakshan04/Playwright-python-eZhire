@@ -1,0 +1,5 @@
+pytest
+playwright
+pytest-bdd
+requests
+mysql-connector-python  # Or psycopg2 for PostgreSQL, or sqlite3
